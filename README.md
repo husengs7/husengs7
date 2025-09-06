@@ -1,4 +1,4 @@
-## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=husengs7&theme=onedark)](https://github.com/husengs7/github-profile-trophy)
 
 <!--
 **husengs7/husengs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
