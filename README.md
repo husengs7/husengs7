@@ -1,4 +1,4 @@
-[![Image from Gyazo](https://i.gyazo.com/c34ed005872ec7a3131c35edb81b7ab1.gif)](https://gyazo.com/c34ed005872ec7a3131c35edb81b7ab1)
+![Light](images/gemini_generated_video_46804167.gif)
 ![Snake Animation](images/github-user-contribution.svg)
 
 <!--
