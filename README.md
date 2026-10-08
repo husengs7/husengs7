@@ -1,4 +1,5 @@
 ![Light](images/gemini_generated_video_46804167.gif)
+![OGP Image](https://student.findy-code.io/?ct=90e1ece4-bdd0-4187-83bc-fcbe61efe1ab&p=2026-09)
 ![Snake Animation](images/github-user-contribution.svg)
 
 <!--
