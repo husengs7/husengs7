@@ -1,4 +1,5 @@
 ![Light](images/gemini_generated_video_46804167.gif)
+![findy](Gemini_Generated_Image_vjvkvuvjvkvuvjvk.jpg)
 ![Snake Animation](images/github-user-contribution.svg)
 
 <!--
