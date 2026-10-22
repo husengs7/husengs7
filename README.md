@@ -2,7 +2,10 @@
 <p align="center">
   <img src="images/Distort_Serial_Experiments_Lain_GIF.gif" alt="lain" width="150" /><br>
   <font face="monospace" size="4"><b><i>Hello Navi.</i></b></font><br>
-  <font face="monospace" color="#888888"><i>“No matter where you go, everyone's always connected.”</i></font>
+  <font face="monospace" color="#888888"><i>“No matter where you go, everyone's always connected.”</i></font><br><br>
+  <a href="https://x.com/husensan_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" height="28" />
+  </a>
 </p>
 
 ![Snake Animation](images/github-user-contribution.svg)
