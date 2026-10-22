@@ -1,5 +1,7 @@
 <!-- ![findy](images/Gemini_Generated_Image_vjvkvuvjvkvuvjvk.jpg) -->
-<img src="images/Distort_Serial_Experiments_Lain_GIF.gif" alt="lain" width="150" />
+<p align="center">
+  <img src="images/Distort_Serial_Experiments_Lain_GIF.gif" alt="lain" width="150" />
+</p>
 
 ![Snake Animation](images/github-user-contribution.svg)
 
