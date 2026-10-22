@@ -1,6 +1,6 @@
 ![Light](images/gemini_generated_video_46804167.gif)
 <!-- ![findy](images/Gemini_Generated_Image_vjvkvuvjvkvuvjvk.jpg) -->
-[lain](https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif)
+![lain](images/Distort_Serial_Experiments_Lain_GIF.gif)
 
 ![Snake Animation](images/github-user-contribution.svg)
 
