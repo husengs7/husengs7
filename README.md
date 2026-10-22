@@ -8,7 +8,8 @@
   </a><br><br>
   <a href="https://main.d3n17hvqfq3ybj.amplifyapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-PORT.01-%23000000.svg?style=for-the-badge&logo=amplify&logoColor=FF9900" alt="Portfolio" height="28" />
-  </a>
+  </a><br><br>
+  <img src="images/171308.gif" alt="lain gif" width="400" />
 </p>
 
 ![Snake Animation](images/github-user-contribution.svg)
