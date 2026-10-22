@@ -1,4 +1,3 @@
-![Light](images/gemini_generated_video_46804167.gif)
 <!-- ![findy](images/Gemini_Generated_Image_vjvkvuvjvkvuvjvk.jpg) -->
 ![lain](images/Distort_Serial_Experiments_Lain_GIF.gif)
 
