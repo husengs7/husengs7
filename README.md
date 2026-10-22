@@ -1,6 +1,8 @@
 <!-- ![findy](images/Gemini_Generated_Image_vjvkvuvjvkvuvjvk.jpg) -->
 <p align="center">
-  <img src="images/Distort_Serial_Experiments_Lain_GIF.gif" alt="lain" width="150" />
+  <img src="images/Distort_Serial_Experiments_Lain_GIF.gif" alt="lain" width="150" /><br>
+  <font face="monospace" size="4"><b><i>Hello Navi.</i></b></font><br>
+  <font face="monospace" color="#888888"><i>“No matter where you go, everyone's always connected.”</i></font>
 </p>
 
 ![Snake Animation](images/github-user-contribution.svg)
